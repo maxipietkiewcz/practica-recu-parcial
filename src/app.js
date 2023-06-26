@@ -23,3 +23,6 @@ app.use("/api/reservas", reservasRutas);
 app.listen(port, () => {
   console.log(`Servidor escuchando en ${port}!`);
 });
+
+
+//crear archivo .env y hacer npm i para descargar todas las dependecias.
